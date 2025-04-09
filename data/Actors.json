@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Avatar Elliot Luchando","characterIndex":0,"characterName":"Avatar Elliot","classId":5,"equips":[5,0,2,3,0],"faceIndex":0,"faceName":"Avatar Elliot","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elliot","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Avatar Viktor Luchando","characterIndex":0,"characterName":"Avatar Viktor","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Avatar Viktor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Viktor","nickname":"","note":"","profile":""}
 ]
