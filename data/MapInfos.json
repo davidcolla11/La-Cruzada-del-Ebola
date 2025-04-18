@@ -1,6 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"TestEscenario","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"TestBatalla","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
-{"id":3,"expanded":false,"name":"Bloque01_level1","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":769.0909090909091}
+{"id":2,"expanded":true,"name":"TestBatalla","order":1,"parentId":0,"scrollX":819,"scrollY":478},
+{"id":3,"expanded":true,"name":"Bloque02_level1","order":3,"parentId":0,"scrollX":861,"scrollY":470},
+{"id":4,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":2541,"scrollY":470},
+{"id":5,"expanded":false,"name":"Bloque03_level1","order":4,"parentId":0,"scrollX":819,"scrollY":478}
 ]
