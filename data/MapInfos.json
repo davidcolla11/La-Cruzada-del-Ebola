@@ -2,9 +2,9 @@
 null,
 {"id":1,"expanded":true,"name":"TestEscenario","order":2,"parentId":0,"scrollX":819,"scrollY":457},
 {"id":2,"expanded":true,"name":"TestBatalla","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1092,"scrollY":1170},
+{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1084,"scrollY":1162},
 {"id":4,"expanded":true,"name":"Intro","order":3,"parentId":0,"scrollX":811,"scrollY":503},
-{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":1092,"scrollY":449},
+{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":2541,"scrollY":449},
 {"id":6,"expanded":true,"name":"Bloque02_level1","order":6,"parentId":0,"scrollX":848,"scrollY":640},
 {"id":7,"expanded":false,"name":"Bloque03_level1","order":7,"parentId":0,"scrollX":819,"scrollY":457}
 ]
