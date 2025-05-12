@@ -2,10 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"TestEscenario","order":2,"parentId":0,"scrollX":819,"scrollY":457},
 {"id":2,"expanded":true,"name":"TestBatalla","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1084,"scrollY":1162},
-{"id":4,"expanded":true,"name":"Intro","order":3,"parentId":0,"scrollX":811,"scrollY":503},
-{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":2447,"scrollY":449},
-{"id":6,"expanded":true,"name":"Bloque02_level1","order":6,"parentId":0,"scrollX":840,"scrollY":632},
-{"id":7,"expanded":true,"name":"Bloque03_level1","order":7,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":8,"expanded":false,"name":"Tienda","order":8,"parentId":0,"scrollX":0,"scrollY":0}
+{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1131,"scrollY":1162.5},
+{"id":4,"expanded":false,"name":"Intro","order":3,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
+{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
+{"id":6,"expanded":true,"name":"Bloque02_level1","order":6,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
+{"id":7,"expanded":true,"name":"Bloque03_level1","order":7,"parentId":0,"scrollX":2278,"scrollY":1239},
+{"id":8,"expanded":false,"name":"Tienda","order":9,"parentId":0,"scrollX":1952.5714285714284,"scrollY":1062},
+{"id":9,"expanded":false,"name":"Bloque04_level1","order":8,"parentId":0,"scrollX":2278,"scrollY":1239}
 ]
