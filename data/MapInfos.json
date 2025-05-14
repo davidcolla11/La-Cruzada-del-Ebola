@@ -1,12 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"TestEscenario","order":2,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":1,"expanded":true,"name":"TestEscenario","order":2,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334},
 {"id":2,"expanded":true,"name":"TestBatalla","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1131,"scrollY":1162.5},
-{"id":4,"expanded":false,"name":"Intro","order":3,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
-{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
-{"id":6,"expanded":true,"name":"Bloque02_level1","order":6,"parentId":0,"scrollX":1708.5,"scrollY":929.25},
-{"id":7,"expanded":true,"name":"Bloque03_level1","order":7,"parentId":0,"scrollX":2278,"scrollY":1239},
-{"id":8,"expanded":false,"name":"Tienda","order":9,"parentId":0,"scrollX":1952.5714285714284,"scrollY":1062},
-{"id":9,"expanded":false,"name":"Bloque04_level1","order":8,"parentId":0,"scrollX":2278,"scrollY":1239}
+{"id":3,"expanded":false,"name":"Castillo demoníaco","order":4,"parentId":4,"scrollX":1120,"scrollY":1152},
+{"id":4,"expanded":true,"name":"Intro","order":3,"parentId":0,"scrollX":662.6666666666666,"scrollY":817.3333333333334},
+{"id":5,"expanded":true,"name":"Bloque01_Level1","order":5,"parentId":0,"scrollX":2170,"scrollY":1210},
+{"id":6,"expanded":true,"name":"Bloque02_level1","order":6,"parentId":0,"scrollX":1191,"scrollY":605},
+{"id":7,"expanded":true,"name":"Bloque03_level1","order":7,"parentId":0,"scrollX":2170,"scrollY":1210},
+{"id":8,"expanded":false,"name":"Tienda","order":11,"parentId":0,"scrollX":2168.727272727273,"scrollY":2674.909090909091},
+{"id":9,"expanded":false,"name":"Bloque04_level1","order":8,"parentId":0,"scrollX":2170,"scrollY":1210},
+{"id":10,"expanded":false,"name":"Bloque05_level1","order":9,"parentId":0,"scrollX":2170,"scrollY":2390},
+{"id":11,"expanded":false,"name":"¿¿¿ - Dimension de Bolsillo","order":10,"parentId":0,"scrollX":2169,"scrollY":605},
+{"id":12,"expanded":false,"name":"Sala del Trono","order":12,"parentId":0,"scrollX":994,"scrollY":1226}
 ]
