@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"Avatar Viktor Luchando","characterIndex":0,"characterName":"Avatar Viktor","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Viktor_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Viktor","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Avatar Elliot Luchando","characterIndex":0,"characterName":"Avatar Elliot","classId":5,"equips":[5,0,2,3,0],"faceIndex":0,"faceName":"Elliot_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elliot","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Avatar Elliot Luchando","characterIndex":0,"characterName":"Avatar Elliot","classId":2,"equips":[5,0,2,3,0],"faceIndex":0,"faceName":"Elliot_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elliot","nickname":"","note":"","profile":""}
 ]
